@@ -1,0 +1,25 @@
+ppb is an education focused game engine. We focus on a gradual complexity ramp
+that lets teachers and students focus only on the thing they want to.
+
+Today, we'll be making a tiny breakout clone. (Demo)
+
+First let's set up our environment, first, let's make a project directory and a
+virtual environment.
+
+1. create game-breakout folder.
+2. in game-breakout create a virtual environment, use the requirements.txt
+   provided
+3. create a breakout.py file
+
+The first step to any video game is to get a window going. Type the following.
+
+```
+import ppb
+
+
+ppb.run()
+```
+
+If you run the file, you should see a window like this.
+
+Any questions?
